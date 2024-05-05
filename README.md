@@ -1,3 +1,3 @@
 # git_test
-My first git repo 
-I am so happy
+Testing my 
+own ideas in this repo
